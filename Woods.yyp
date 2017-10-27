@@ -130,7 +130,7 @@
             "Key": "933bbcb9-5992-46ff-90fd-769dd041cd02",
             "Value": {
                 "id": "d86a49d7-f92c-4e5b-86c0-59e0757a1f7b",
-                "resourcePath": "objects\\spr_player\\spr_player.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
